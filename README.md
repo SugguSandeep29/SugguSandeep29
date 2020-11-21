@@ -1,7 +1,7 @@
 ### Hi there welcome to my world 👋
 
 <h1><b>My Social Media Handlers</b></h1>
-
+<html>
   <style>
 .fa {
   padding: 20px;
@@ -23,7 +23,7 @@
   <body>
   <a href="#" class="fa fa-linkedin"></a>
 </body>
-
+</html>
 
 <hr>
 <h1><b>About Me</b></h1>
