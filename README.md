@@ -1,29 +1,8 @@
 ### Hi there welcome to my world 👋
 
 <h1><b>My Social Media Handlers</b></h1>
-<html>
-  <style>
-.fa {
-  padding: 20px;
-  font-size: 30px;
-  width: 50px;
-  text-align: center;
-  text-decoration: none;
-  margin: 5px 2px;
-}
-  .fa:hover {
-    opacity: 0.7;
-}
-  .fa-linkedin {
-  background: #007bb5;
-  color: white;
-}
-  </style>
-  </head>
-  <body>
-  <a href="#" class="fa fa-linkedin"></a>
-</body>
-</html>
+<a href="https://www.linkedin.com/in/suggu-sandeep-4b572a1a1?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B0z2e%2BxMzQdqq57GsPSdVGQ%3D%3D" class="fa fa-linkedin"></a>
+
 
 <hr>
 <h1><b>About Me</b></h1>
