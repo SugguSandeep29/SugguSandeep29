@@ -16,7 +16,7 @@
   <a href="https://www.hackerrank.com/KLU_180030167" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="Suggu Sandeep" height="30" width="40" /></a>
   <a href="https://leetcode.com/klu_180030167/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="Suggu Sandeep" height="30" width="40" /></a>
   <a href="https://sandeepsuggu29.medium.com/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="Suggu Sandeep" height="30" width="40" /></a>
-  <a href="https://www.linkedin.com/in/suggu-sandeep-4b572a1a1/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/suggu-sandeep-4b572a1a1/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Suggu Sandeep" height="30" width="40" /></a>
   <a href="https://github.com/SugguSandeep29" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="Suggu Sandeep" height="30" width="40" /></a>
   <a href="https://t.me/Sandeep_2022" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="Suggu Sandeep" height="30" width="40" /></a>
   <a href="https://www.instagram.com/sandeepreddysuggu/?hl=en" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_Suggu Sandeep" height="30" width="40" /></a>
