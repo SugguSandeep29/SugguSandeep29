@@ -4,7 +4,7 @@
 <h3 align="center">Hai Hello Namaste</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SugguSandeep29&label=Profile%20views&color=129e00&style=plastic" alt="SugguSandeep29" /> </p>
-- 👨‍💻 You can also check out my portfolio at [https://suggusandeep29.github.io/](https://suggusandeep29.github.io/)
+- 👨‍💻 You can also check out my portfolio at https://suggusandeep29.github.io/
 
 - 📫 How to reach me **sandeepsuggu29@gmail.com**
 
@@ -12,10 +12,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <!-- <a href="https://sandeepsuggu29.medium.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="Suggu Sandeep" height="30" width="40" /></a> -->
+  <!-- <a href="https://mobile.twitter.com/suggu_sandeep" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Suggu Sandeep" height="30" width="40" /></a> -->
   <a href="https://www.linkedin.com/in/suggu-sandeep-4b572a1a1/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Suggu Sandeep" height="30" width="40" /></a>
   <a href="https://www.instagram.com/sandeepreddysuggu/?hl=en" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_Suggu Sandeep" height="30" width="40" /></a>
-  <a href="https://mobile.twitter.com/suggu_sandeep" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_Suggu Sandeep" height="30" width="40" /></a>
+  </p>
 
   
 
