@@ -1,5 +1,5 @@
-[![Copy of SUGGU SANDEEP](https://user-images.githubusercontent.com/68318127/100534962-9c7f1c00-323a-11eb-9c8f-f26d17c6a3e4.jpg)]
-(https://suggusandeep29.github.io/)
+![Copy of SUGGU SANDEEP](https://user-images.githubusercontent.com/68318127/100534962-9c7f1c00-323a-11eb-9c8f-f26d17c6a3e4.jpg)
+
 <h1 align="center">Hi 👋, I'm Suggu Sandeep</h1>
 <h3 align="center">Hai Hello Namaste</h3>
 
