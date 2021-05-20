@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **sandeepsuggu29@gmail.com**
 
-- 💬 Ask me about Android & any Tech Realted Stuff
+- 💬 Ask me about Tech. Realted Stuff
 
 <img src="https://github-readme-stats.vercel.app/api?username=SugguSandeep29&&show_icons=true&title_color=ffffff&icon_color=F78B31&text_color=daf7dc&bg_color=151515">
 
