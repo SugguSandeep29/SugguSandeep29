@@ -4,11 +4,14 @@
 <h3 align="center">Hai Hello Namaste</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SugguSandeep29&label=Profile%20views&color=129e00&style=plastic" alt="SugguSandeep29" /> </p>
+
 - 👨‍💻 You can also check out my portfolio at https://suggusandeep29.github.io/
 
 - 📫 How to reach me **sandeepsuggu29@gmail.com**
 
-- ⚡ Fun fact **I Love to Use Technology**
+- 💬 Ask me about Android & any Tech Realted Stuff
+
+<img src="https://github-readme-stats.vercel.app/api?username=SugguSandeep29&&show_icons=true&title_color=ffffff&icon_color=F78B31&text_color=daf7dc&bg_color=151515">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
