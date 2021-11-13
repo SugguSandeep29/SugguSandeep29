@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Suggu Sandeep</h1>
 <h3 align="center">Hai Hello Namaste</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=SugguSandeep29&label=Profile%20views&color=129e00&style=plastic" alt="SugguSandeep29" /> </p>
+<!---<p align="left"> <img src="https://komarev.com/ghpvc/?username=SugguSandeep29&label=Profile%20views&color=129e00&style=plastic" alt="SugguSandeep29" /> </p>---->
 
 - 👨‍💻 You can also check out my portfolio at https://suggusandeep29.github.io/
 
