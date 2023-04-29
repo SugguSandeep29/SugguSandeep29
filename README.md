@@ -1,5 +1,3 @@
-![Suggu Sand](https://user-images.githubusercontent.com/68318127/118538926-6ee84980-b76c-11eb-9fdd-01f41dcf9686.jpg)
-
 <h1 align="center">Hi 👋, I'm Suggu Sandeep</h1>
 <h3 align="center">Hai Hello Namaste</h3>
 
