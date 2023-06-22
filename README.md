@@ -1,3 +1,33 @@
+# 💫 About Me:
+🔭 I’m currently working on SAP MDG Junior Consultant<br>
+
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/suggu-sandeep-4b572a1a1) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@sandeepsuggu29) 
+
+# 💻 Tech Stack:
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=SugguSandeep29&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=SugguSandeep29&theme=default&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SugguSandeep29&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=SugguSandeep29&theme=flat&no-frame=false&no-bg=false&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=SugguSandeep29&limit=5&theme=flat&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=SugguSandeep29&icon=0&color=6)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+______________________________________________________________________________
+
 <h1 align="center">Hi 👋, I'm Suggu Sandeep</h1>
 <h3 align="center">Hai Hello Namaste</h3>
 
@@ -5,13 +35,7 @@
 
 - 👨‍💻 You can also check out my portfolio at https://suggusandeep29.github.io/
 
-- 📫 How to reach me **sandeepsuggu29@gmail.com**
-
-- 💬 Ask me about Tech. Realted Stuff
-
-<img src="https://github-readme-stats.vercel.app/api?username=SugguSandeep29&&show_icons=true&title_color=ffffff&icon_color=F78B31&text_color=daf7dc&bg_color=151515">
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">All Tech. Profiles:</h3>
 <p align="left">
   <a href="https://www.hackerearth.com/@suggu3" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="Suggu Sandeep" height="30" width="40" /></a>
   <a href="https://www.hackerrank.com/KLU_180030167" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="Suggu Sandeep" height="30" width="40" /></a>
@@ -26,8 +50,3 @@
   </p>
 
 <hr>
-<h1><b>About Me</b></h1>
-<p><g-emoji class="g-emoji" alias="pushpin" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4cc.png">📌</g-emoji> Hey Guys !! My name <b>Suggu Sandeep</b> and i am <b>Software Developer....</b></p>
-<p><g-emoji class="g-emoji" alias="pushpin" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4cc.png">📌</g-emoji> Undergraduate from <b>B.tech</b> in <b>Computer Science Engineering</b> (B.Tech)</p>
-<p><g-emoji class="g-emoji" alias="pushpin" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4cc.png">📌</g-emoji> Here's is some the project that i bulid on python or other languages and share as a form of repositries</p>
-<p><g-emoji class="g-emoji" alias="pushpin" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4cc.png">📌</g-emoji> I worked mostly on python to bulid my almost projects and beside that i know c, java, Python etc...</p>
